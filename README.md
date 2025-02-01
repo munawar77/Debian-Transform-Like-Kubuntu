@@ -6,7 +6,7 @@ This script enhances a Debian system by transforming it into a **Kubuntu-like KD
 
 ### 🔧 Prerequisites
 
-Before running this script, make sure you have installed a **base desktop environment** (TTY session) using the Debian installer with the `tasksel` option. After the base installation, manually install the following essential packages:
+Before running this script, make sure you have installed a **bareboe desktop** (TTY session) using the Debian installer with the `tasksel` option. After the base installation, manually install the following essential packages:
 
 ```bash
 sudo apt install plasma-desktop plasma-nm
