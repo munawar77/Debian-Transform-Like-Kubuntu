@@ -2,8 +2,7 @@
 
 ## 🚀 Overview
 
-This script enhances a Debian system by installing a selection of packages commonly shipped by the Kubuntu Team, ensuring a polished and feature-rich desktop experience
-
+This script enhances a Debian system by installing a selection of packages commonly shipped by the Kubuntu Team, ensuring a polished and feature-rich desktop experience. Although there are many package selections, not all will be installed, as some are already included once the prerequisites are met.
 ### 🔧 Prerequisites
 
 Before running this script, make sure you have installed a **barebone desktop** (TTY session) using the Debian installer with the `tasksel` option. After the base installation, manually install the following essential packages:
