@@ -47,7 +47,7 @@ konsole dolphin khelpcenter kcharselect ark gwenview kate kcalc kde-spectacle kd
 kwalletmanager okular print-manager skanlite haruna skanpage okular-extra-backends \
 kio-audiocd ksystemlog partitionmanager xdg-user-dirs ubuntu-release-upgrader-qt \
 software-properties-qt kio frameworkintegration appstream apport-kde aptitude dbus-x11 \
-desktop-file-utils gnupg-agent kimageformat-plugins libglib2.0-bin libqca-qt5-2-plugins \
+desktop-file-utils firefox-esr gnupg-agent kimageformat-plugins libglib2.0-bin libqca-qt5-2-plugins \
 pastebinit pinentry-qt plocate ppa-purge qapt-deb-installer qml-module-qtgraphicaleffects \
 qml-module-qtquick-xmllistmodel qt5-image-formats-plugins util-linux-extra vim xdg-utils \
 libreoffice-calc libreoffice-impress libreoffice-kf5 libreoffice-plasma libreoffice-style-breeze \
