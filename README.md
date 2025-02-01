@@ -3,7 +3,7 @@
 ## Installation Steps
 
 ### 1. Download the Script
-Save `install_kubuntu_debian.sh` to your system.
+Save the desired .sh file to your system.
 
 ### 2. Make it Executable
 ```bash
@@ -35,14 +35,3 @@ sudo reboot
   ```bash
   sudo apt --fix-broken install
   ```
-
-## Uninstallation
-To remove installed packages:
-```bash
-sudo apt remove --purge kubuntu-desktop sddm plasma-* kde-* dolphin konsole -y
-sudo apt autoremove -y
-```
-
-## Credits
-Based on **Kubuntu** and **Debian** package lists.
-
