@@ -8,7 +8,7 @@ This script enhances a Debian system by installing a selection of packages commo
 Before running this script, make sure you have installed a **barebone desktop** (TTY session) using the Debian installer with the `tasksel` option. After the base installation, manually install the following essential packages:
 
 ```bash
-sudo apt install plasma-desktop plasma-nm sddm
+sudo apt install plasma-desktop plasma-nm sddm konsole
 ```
 
 Once these are installed, you can proceed with running the script.
