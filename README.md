@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This script enhances a Debian system by transforming it into a **Kubuntu-like KDE environment**, ensuring a polished and feature-rich desktop experience.
+This script enhances a Debian system by installing a selection of packages commonly shipped by the Kubuntu Team, ensuring a polished and feature-rich desktop experience
 
 ### 🔧 Prerequisites
 
