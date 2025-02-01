@@ -27,7 +27,7 @@ libkpipewire5 libkpipewiredmabuf5 libkpipewirerecord5 libkscreenlocker5 libksgrd
 libksignalplotter9 libksysguardformatter1 libksysguardsensorfaces1 libksysguardsensors1 \
 libksysguardsystemstats1 liblsofui9 liboxygenstyle5-5 liboxygenstyleconfig5-5 libpam-kwallet5 \
 libpolkit-qt5-1-1 libprocesscore9 libprocessui9 libqt5svg5 milou oxygen-sounds \
-plasma-desktop plasma-integration plasma-pa plasma-systemmonitor plasma-workspace \
+kde-plasma-desktop plasma-integration plasma-pa plasma-systemmonitor plasma-workspace \
 polkit-kde-agent-1 powerdevil qml-module-org-kde-ksysguard qml-module-org-kde-qqc2breezestyle \
 qml-module-org-kde-qqc2desktopstyle qttranslations5-l10n systemsettings xdg-desktop-portal-kde \
 breeze-gtk-theme drkonqi kde-config-gtk-style kde-config-gtk-style-preview kde-config-plymouth \
