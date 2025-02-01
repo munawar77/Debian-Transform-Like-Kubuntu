@@ -1,4 +1,4 @@
-# README: Enhanced Plasma Desktop For Debian 
+# README: Make Debian KDE perfect Baked Like Kubuntu
 
 ## Installation Steps
 
