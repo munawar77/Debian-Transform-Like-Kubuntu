@@ -1,4 +1,4 @@
-# README: Install Kubuntu Shipped packages on Debian Since It Comes Half Baked And Normies Don't like It ;)
+# README: Enhanced Plasma Desktop For Debian 
 
 ## Installation Steps
 
